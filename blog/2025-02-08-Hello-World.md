@@ -2,15 +2,12 @@ blog/2025-02-08-Hello-World.md
 ---
 slug: Hello-World
 title: Hello World!
-authors:
+author:
   - name: Burke Stanion
-    title: Co-creator of Docusaurus 1
+    title: Sturke Creator
     url: https://github.com/sturke
     image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
+
 tags: [greetings, docusaurus, Hello-World]
 ---
 
@@ -31,6 +28,21 @@ This is a paragraph.
 var hello = 'world';
 ```
 
-And here's some code: `var hello = 'world';`  
+:::tip
+Use the power of React to create interactive blog posts.
+:::
+
+:::danger
+This is a danger callout.
+:::
+
+[My First Blog Post](blog/2025-02-08-Hello-World.md)
+
+
+[My First Markdown Page](./myFirstPage.md)
+
+[My First React Page](./my-react-page.js)
+
+
 
 
