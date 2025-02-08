@@ -45,3 +45,11 @@ The `cd` command changes the directory you're working with. In order to work wit
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+
+# How to set up docs-as-code
+
+Documentation-as-code is a great means to push changes made in your local machine to your docs live site. To accomplish this, you need an IDE, a static site generator, a Git repository, CI/CD to set up workflows, and a hosting platform. 
+
+## Why do technical writers do docs-as-code?
+
+Documentation-as-code is a great means to push changes made in your local machine to your docs live site. To accomplish this, you need an IDE, a static site generator, a Git repository, CI/CD to set up workflows, and a hosting platform.
