@@ -2,6 +2,9 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+## Getting Started
+[FreeCodeCamp_Tutorial](https://www.freecodecamp.org/news/set-up-docs-as-code-with-docusaurus-and-github-actions/)
+
 ### Installation
 
 ```
