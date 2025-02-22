@@ -1,3 +1,15 @@
+stanion:
+  name: Stanion Burke
+  title: Student of Life
+  url: https://github.com/sturke
+  image_url: https://github.com/JoelMarcey.png
+  page: true  
+  socials:
+    github: sturke  
+    x: burkestanion
+    linkedin: burkestanion
+    bluesky: sturke.bsky.social
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
