@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'sturkedocs',
-  tagline: 'Dinosaurs are cool',
+  title: 'SturkeDocs',
+  tagline: 'Everything Is By Design',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -139,7 +139,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} SturkeDocs Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
