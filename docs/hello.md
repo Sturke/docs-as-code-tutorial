@@ -1,6 +1,13 @@
 ---
+id: hello
+title: Hello
 sidebar_position: 4
 ---
 # Hello
 
 This is my **first Docusaurus document**!
+
+[webdev](/webdev)
+
+[javascript](/javascript)
+Try this!
