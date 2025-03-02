@@ -14,9 +14,9 @@ Create a new folder inside the `docs` folder:
 ```bash
 mkdir docs/learning-docusaurus
 ```     
-This creates a new menu item on the left sidebar: `Learning Docusaurus' >
+This creates a new menu item on the left sidebar: `Learning Docusaurus`. You can also create the folder using your code editor. 
 
-
+_________________
 
 ## Making The New Folder A Menu Item
 
@@ -27,7 +27,7 @@ Then your new learning-docusaurus `folder` needs to have a `_category_.json` fil
 ```bash
 touch docs/learning-docusaurus/_category_.json
 ```
-In this JSON file I can add a label, position, and link including a description that appears like a tagline on the `Learning Docusaurus` page. Like this: I changed my description text after I created my screenshot below. 
+Again, you can create this file using your code editor. In this JSON file you can add a label, position, and link including a description that appears like a tagline on the `Learning Docusaurus` page. Like this: I changed my description text after I created my screenshot below. 
 
 ```json
 {
@@ -40,9 +40,15 @@ In this JSON file I can add a label, position, and link including a description 
 }
 ```
 
-I'm going to try and insert a screenshot here.
+A screenshot of my `Learning Docusaurus` page: that shows the tiles of my new `First Learn` page and my second `Ramblings` page.
 
 ![An image from the static](/img/learning_docusaurus.jpg)
+
+To add a screenshot: Use this syntax: `An image from the static` inside square brackets followed by perentheses with the path to the image located in the `img` folder inside the `static` folder. And yes, the exclamation mark is required.
+```
+![An image from the static](/img/learning_docusaurus.jpg)
+```
+_________________
 
 ## Creating A File Inside The New Folder
 Create a new file inside the new folder:
@@ -51,13 +57,17 @@ Create a new file inside the new folder:
 touch docs/learning-docusaurus/first-learn-doc.md
 ```
  
-Docusaurus will automatically include this file in the sidebar menu under the `Learning Docusaurus` menu item. This page also automatically becomes a tile link on the Learning Docusaurus page and it gets included in the previous/next navigation below.
+Docusaurus will automatically include this file in the sidebar menu under the `Learning Docusaurus` menu item. As seen in the screenshot above, this page also automatically becomes a tile link on the Learning Docusaurus page and it gets included in the previous/next navigation below.
+
+_________________
 
 ## Adding Content To The New File
 
 Add content to the new file:
 
 I started this first-learn-doc markdown file inside of my new learning-docusaurus folder: `docs/learning-docusaurus/first-learn-doc.md`
+
+_________________
 
 ## How To Link To Pages
 

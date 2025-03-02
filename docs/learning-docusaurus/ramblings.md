@@ -1,7 +1,7 @@
 ---
 id: learning-ramblings
-title: Ramblings About JavaScript
-description: My SecondTest Page
+title: Ramblings 
+description: My Second Test Page
 slug: /ramblings
 ---
 # Ramblings About JavaScript
