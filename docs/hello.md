@@ -9,5 +9,5 @@ This is my **first Docusaurus document**!
 
 [webdev](/webdev)
 
-[javascript](/javascript)
+[javascript](/testingjs)
 Try this!

@@ -6,4 +6,4 @@ On this page I want to link to other pages that I have written about web develop
 
 
 Lets link to one now to test the linking:
-[JavaScript](javascript.md)
+[JavaScript](testingjs)
