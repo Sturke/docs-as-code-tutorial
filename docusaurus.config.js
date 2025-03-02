@@ -77,12 +77,12 @@ const config = {
       //____ ********************************
       // This is the TOP LEFT NAVBAR ************
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/newColorLogo.svg',
       navbar: {
         title: 'SturkeDocs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/newColorLogo.svg',
         },
         items: [
           {
