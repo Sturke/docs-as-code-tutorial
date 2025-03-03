@@ -10,4 +10,4 @@ slug: /ramblings
 
 This page will link to other pages that I have written about my ramblings about JavaScript.
 
-Now, from here lets link to a simple[Hello](hello.md) page.
+Now, from here lets link to a simple [Hello](hello.md) page.

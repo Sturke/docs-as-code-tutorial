@@ -1,9 +1,9 @@
-# Ramblings About JavaScript
+---
+id: testingjs
+title: Testing JS 
+description: A JavaScript Test Page
+slug: /testingjs
+---
+# Testing JavaScript
 
-### Try To Keep Your Mind Intact
-
-This page will link to other pages that I have written about my ramblings about JavaScript.
-
-
-Lets link to one now to test the linking:
-[Hello](hello.md)
+### Trying To Find A Broken Link
