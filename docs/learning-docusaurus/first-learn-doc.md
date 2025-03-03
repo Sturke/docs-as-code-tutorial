@@ -87,7 +87,7 @@ Notice how the right menu has grown to include links to each heading in this pag
 
 ![An image from the static](/img/r_menu.jpg)
 
-Many sources on the internet will show you how to write in Markdown. I have not tested everything here yet, but I have been using Markdown for several years using [Obsidian](https://obsidian.md/). It is very easy to write and learn simple sytax of how to make headings, bullet points, numbered lists, links, code blocks, etc. Here are some links to some of the most popular Markdown syntaxes:
+Many sources on the internet will show you how to write in Markdown. I have not tested everything here yet, but I have been using Markdown for several years using [Obsidian](https://obsidian.md/). It is very easy to write and learn simple syntax of how to make headings, bullet points, numbered lists, links, code blocks, etc. Here are some links to some of the most popular Markdown syntaxes:
 
 - [Markdown](https://daringfireball.net/projects/markdown/syntax)
 
@@ -112,10 +112,10 @@ becomes:
 ```md
 ### How To Create Subheadings
 ```
-becomes:
+becomes: 
 
 ### How To Create Subheadings
-
+LOOK at how the subheading gets indented on the righ sidebar menu >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ```md
 ###### All The Way Down To H6
 ```
@@ -123,12 +123,11 @@ becomes:
 
 ###### All The Way Down To H6
 
-Notice the horizontal rule that I've added in this page.
+Notice the horizontal rule that I've added between each section on this page.
 It is simply three hyphens, like this:
 ```md
 --- 
 ```
----
  
 _________________
 
