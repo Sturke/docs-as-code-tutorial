@@ -74,8 +74,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      //____ ********************************
-      // This is the TOP LEFT NAVBAR ************
+      //******************************************
+      //  This is the TOP LEFT NAVBAR ************
+      //******************************************
       // Replace with your project's social card
       image: 'img/newColorLogo.svg',
       navbar: {
@@ -91,10 +92,30 @@ const config = {
             position: 'left',
             label: 'Learn',
           },
+          {
+            to: 'helloReact', 
+            label: 'Page Test', 
+            position: 'left'
+          },
+          
+         /* {
+            type: 'docSidebar',
+            sidebarId: 'learningSidebar',
+            position: 'left',
+            label: 'Learning',
+          },*/
+          //******************************************
+          // This is the TOP RIGHT NAVBAR ************
+          //******************************************
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            label: 'Docusaurus GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/sturke',
+            label: 'Sturke GitHub',
             position: 'right',
           },
         ],
@@ -106,7 +127,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Learn',
                 to: '/docs/intro',
               },
             ],
@@ -122,10 +143,7 @@ const config = {
                 label: 'Discord',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
+              
             ],
           },
           {
@@ -134,6 +152,10 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
+              },
+              {
+                label: 'Page Test',
+                to: 'helloReact',
               },
               {
                 label: 'GitHub',
