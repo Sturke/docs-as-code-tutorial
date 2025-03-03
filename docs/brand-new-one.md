@@ -10,6 +10,4 @@ This is my **Newest Docusaurus document**!
 
 Try this!
 
-[Hello][def]
 
-[def]: ./hello.md

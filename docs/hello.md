@@ -9,5 +9,3 @@ This is my **first Docusaurus document**!
 
 [webdev](/webdev)
 
-[javascript](/testingjs)
-Try this!
