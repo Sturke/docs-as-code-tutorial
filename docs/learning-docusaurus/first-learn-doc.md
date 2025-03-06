@@ -143,3 +143,5 @@ Lets see if we can link to an outside website:
 
 [Google](https://google.com)
 Okay, good. That works as expected. 
+
+I recorded some Chat GPT Prompts to get an idea of where to start with some [Python](gpt_py) projects. 
