@@ -13,7 +13,10 @@ const config = {
   title: 'SturkeDocs',
   tagline: 'Everything Is By Design',
   favicon: 'img/favicon.ico',
-
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
   // Set the production url of your site here
   url: 'https://sturkedocs-as-code-tutorial.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -174,3 +177,4 @@ const config = {
 };
 
 export default config;
+
