@@ -389,3 +389,8 @@ Bun and Node.js are both JavaScript runtime environments, but they have differen
 - **Use Node.js** if you need **stability, full compatibility, and enterprise-level support**.
 
 Would you like help setting up a Bun-based project or optimizing your Node.js setup? 🚀
+
+
+### I've Been Working With Chat GPT — OCT 17 2026
+
+For about two months now, I've been spending a lot of time working with Chat GPT to design and begin building out a personal assistant. Here is another change to push. 
